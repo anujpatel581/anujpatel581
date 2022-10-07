@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Special What ? 
-confused theby silence , amaze them by Action
+confused them by silence , amaze them by Action
