@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anujpatel581
-- 👀 I’m interested in Androi development
-- 🌱 I’m currently learning Java, Android dev....
+- 👀 I’m interested in Android development
+- 🌱 I’m code lucifer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Special What ? 
-I don't care what you do, I only care what I do....
+confused theby silence , amaze them by Action
