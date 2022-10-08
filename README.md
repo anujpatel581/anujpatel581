@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Patel</h1>
 <h3 align="center">A passionate programmer and developer from India</h3>
 
-<img align="right" alt="coding" width ="400" src="![image](https://user-images.githubusercontent.com/89893953/194701806-101143bb-abef-4c7d-8f76-c1944d3c7f3d.png)
-">
+<img align="right" alt="coding" width ="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpatel581&label=Profile%20views&color=0e75b6&style=flat" alt="anujpatel581" /> </p>
 
