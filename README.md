@@ -1,3 +1,4 @@
+![logo](https://github.com/anujpatel581/anujpatel581/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Anuj Patel</h1>
 <h3 align="center">A passionate programmer and developer from India</h3>
 
